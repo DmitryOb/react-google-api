@@ -28,8 +28,5 @@
     "style-loader": "^0.20.3",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.8.2"
-  },
-  "dependencies": {
-    "react-google-maps": "^9.4.5"
   }
 }
